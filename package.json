@@ -1,0 +1,19 @@
+{
+  "name": "tag-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vk-detrans/test-tag-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vk-detrans/test-tag-release/issues"
+  },
+  "homepage": "https://github.com/vk-detrans/test-tag-release#readme"
+}
